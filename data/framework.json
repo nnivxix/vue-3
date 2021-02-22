@@ -1,0 +1,67 @@
+{
+	"fw":[
+		{
+			"id":"1",
+			"name":"Angular",
+			"img": "http://localhost:8080/server/public/assets/img-fw/angular.svg",
+			"text":[
+				"AngularJS adalah framework JavaScript dengan pola MVC di sisi klien untuk mengembangkan aplikasi web yang dinamis. AngularJS awalnya dimulai sebagai proyek di Google tetapi sekarang merupakan framework yang open source. AngularJS sepenuhnya didasarkan pada HTML dan JavaScript, jadi tidak perlu mempelajari sintaks atau bahasa lain. AngularJS mengubah HTML statis menjadi HTML dinamis. Hal ini memperluas kemampuan HTML dengan menambahkan atribut dan komponen bawaan dan juga menyediakan kemampuan untuk membuat atribut khusus menggunakan JavaScript sederhana",
+				"helo garis baru"
+			]
+		},
+		{
+			"id":"2",
+			"name":"ReactJS",
+			"img": "http://localhost:8080/server/public/assets/img-fw/react.svg",
+			"text":[
+				"React adalah library front-end yang dikembangkan oleh Facebook. Framework digunakan untuk menangani tampilan untuk web dan aplikasi seluler. ReactJS memungkinkan kita untuk membuat komponen UI yang dapat digunakan kembali. Saat ini salah satu framework JavaScript paling populer dan memiliki fondasi yang kuat dan komunitas besar di belakangnya.",
+				"helo garis baru"
+			]
+		},
+		{
+			"id":"3",
+			"name":"MeteorJS",
+			"img": "http://localhost:8080/server/public/assets/img-fw/meteor.svg",
+			"text":[
+				"Meteor, atau MeteorJS, adalah framework JavaScript isomorfik yang gratis dan open source, ditulis menggunakan Node.js. Meteor memungkinkan pembuatan prototipe yang cepat dan menghasilkan kode lintas platform (Android, iOS, Web). Meteor terintegrasi dengan MongoDB dan menggunakan Distributed Data Protocol dan mempublikasikan pola untuk secara otomatis menyebarkan perubahan data ke klien tanpa mengharuskan pengembang untuk menulis kode sinkronisasi. Pada klien, Meteor dapat digunakan dengan mesin template Blaze sendiri, serta dengan framework Angular atau React.",
+				"helo garis baru"
+			]
+		},
+		{
+			"id":"4",
+			"name":"Node.js",
+			"img": "http://localhost:8080/server/public/assets/img-fw/nodejs.svg",
+			"text":[
+				"Node.js adalah run-time environment JavaScript yang bersifat open-source, lintas-platform dan mengeksekusi kode JavaScript pada sisi server. Secara historis, JavaScript digunakan terutama untuk kode pada sisi klien, di mana kode yang ditulis dalam JavaScript disematkan dalam HTML laman web dan menjalankan sisi klien dengan mesin JavaScript di peramban web pengguna. Node.js memungkinkan pengembang menggunakan JavaScript untuk menjalankan kode pada sisi server untuk membuat konten halaman web dinamis sebelum halaman dikirim ke browser web pengguna. Akibatnya, Node.js mewakili paradigma \"JavaScript di mana-mana\".",
+				"helo garis baru"
+			]
+		},
+		{
+			"id":"5",
+			"name":"Mithril.js",
+			"img": "http://localhost:8080/server/public/assets/img-fw/mithril.svg",
+			"text":[
+				"Mithril.js adalah framework JavaScript dengan pola MVC klasik yang berukuran kecil (7kb) dan cepat. Mithril mendorong arsitektur yang mirip dengan Angular.js, dan menggunakan DOM virtual seperti React.js, sambil menghindari kebutuhan akan library seperti jQuery. Ukuran kecil Mithril dan API membuatnya ideal untuk widget JavaScript dan antarmuka pengguna yang memiliki persyaratan kinerja tinggi.",
+				"helo garis baru"
+			]
+		},
+		{
+			"id":"6",
+			"name":"Ember.js",
+			"img": "http://localhost:8080/server/public/assets/img-fw/ember.svg",
+			"text":[
+				"Ember.js adalah framework web JavaScript yang bersifat open source, framework ini berdasarkan pada pola model – view – view – model (MVVM). Hal ini memungkinkan pengembang untuk membuat aplikasi web satu halaman yang dapat ditingkatkan sesuai dengan kebutuhan. Selain itu, kombinasi Ember.js dan Rails memberi Anda lebih banyak kebebasan dan fleksibilitas untuk membuat kode aplikasi web yang lebih kaya dan lebih interaktif.",
+				"helo garis baru"
+			]
+		},
+		{
+			"id":"7",
+			"name":"Vue.js",
+			"img": "http://localhost:8080/server/public/assets/img-fw/vue.svg",
+			"text":[
+				"Vue.js adalah framework JavaScript progresif yang bersifat open-source untuk membangun antarmuka pengguna. Integrasi ke dalam proyek-proyek yang menggunakan library JavaScript lainnya dibuat mudah dengan Vue karena dirancang untuk diadopsi secara bertahap. Vue juga dapat berfungsi sebagai framework aplikasi web yang mampu menjalankan aplikasi satu halaman yang canggih.",
+				"helo garis baru"
+			]
+		}
+	]
+}
